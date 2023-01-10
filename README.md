@@ -1,3 +1,5 @@
 # University-Website-Clone
-Responsive University Website 
-Hey guys! This is University Website Clone. 
+Responsive University Website <br>
+Hey guys! Cloned University Website mainly using HTML and CSS. <br>
+Simple and Responsive Style. 
+
